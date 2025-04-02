@@ -1,0 +1,1 @@
+Encapsulation example in Python
